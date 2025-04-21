@@ -8,4 +8,4 @@ tags:
 
 YouTube video embed below.
 
-<iframe width="640" height="360" src="www.youtube.com/watch?v=qgXlIon524Q&feature=youtu.be" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="[www.youtube.com/watch?v=qgXlIon524Q&feature=youtu.be](https://www.youtube-nocookie.com/embed/qgXlIon524Q?controls=0)" frameborder="0" allowfullscreen></iframe>
