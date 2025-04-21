@@ -6,6 +6,8 @@ categories:
 
 The following is the narrative written for Artifact 2 at the time the initial enhancement was completed.
 
+
+
 1.	Briefly describe the artifact. What is it? When was it created?
 
 The artifact is a MongoDB database, specifically a python file to access it and view it in a user friendly interface while interacting with it. It was created as part of the project in CS 370.
