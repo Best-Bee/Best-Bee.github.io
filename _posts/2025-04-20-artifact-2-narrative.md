@@ -6,7 +6,7 @@ categories:
 
 The following is the narrative written for Artifact 2 at the time the initial enhancement was completed.
 
-
+---
 
 1.	Briefly describe the artifact. What is it? When was it created?
 
