@@ -1,12 +1,15 @@
+---
+title: "Professional Self Assessment"
+categories:
+  - Narratives
+---
 
-1. Discuss how completing your coursework throughout the program and developing the ePortfolio has helped you showcase your strengths, shape your professional goals and values, and prepare to enter or become more employable in the computer science field.
+The following is the self-assessment written for CS 499.
 
-a. Use specific examples from your program and include examples outside of the artifacts included in your ePortfolio.
+---
 
-b. Address the following topics: collaborating in a team environment, communicating with stakeholders, data structures and algorithms, software engineering and database, and security. This section should function as an overall introduction to your skills, not a discussion of the artifacts.
+Completing the coursework throughout the program and developing my portfolio has been of great benefit to me in showing off my strengths and abilities as a developer, it's given me further understanding of what I value in my code and how I can write code that is of the highest quality such that anyone to come after me will be able to easily understand what has been created as well as what could be built off of it. I found the overall experience of the course to be quite meaningful as it gave me the freedom to look back at projects I didn't have the time to complete and decide to work on them more and bring them to a state that I'm more proud of to show off to potential employers.
 
-2. Summarize and introduce how your artifacts fit together and inform the portfolio as a whole.
+The abilities I've developed as a professional over my classes in understanding better how to communicate and work in a way that is more beneficial for team environments will also be of great help in the future as previously I honestly had a lack in my skills regarding that but I believe I can confidently say that by now I can work with others and explain things to others in a way more befitting of a professional in the work environment.
 
-a. This summary will help demonstrate the full range of your computer science talents and abilities.
-
-b. This section should introduce your audience to the technical artifacts that follow the professional self-assessment.
+The artifacts I have created so far showcase my abilities in a few different ways that are quite important, that being my software design skills, my software development skills, and my database skills, I think these three are greatly beneficial to my employability overall and by including them in my portfolio they will allow any employes to see what I am capable of creating when I'm working at my best. 
