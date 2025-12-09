@@ -4,8 +4,8 @@ categories:
   - Classwork
 
 ---
-[Merge Sort Repository](https://github.com/Best-Bee/Classwork/tree/main/Merge%20Sort)
-[Quick Sort Repository](https://github.com/Best-Bee/Classwork/tree/main/Quick%20Sort)
+[Merge Sort Repository](https://github.com/Best-Bee/Classwork/tree/main/Merge%20Sort)  \
+[Quick Sort Repository](https://github.com/Best-Bee/Classwork/tree/main/Quick%20Sort)  \
 [Radix Sort Repository](https://github.com/Best-Bee/Classwork/tree/main/Radix%20Sort)
 ---
 
