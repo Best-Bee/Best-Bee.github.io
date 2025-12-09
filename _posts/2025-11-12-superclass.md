@@ -1,4 +1,9 @@
 ---
+title: "Superclasses"
+categories:
+  - Classwork
+
+---
 [Superclass Repository](https://github.com/Best-Bee/Classwork/tree/main/Superclass%20Example)
 ---
 
