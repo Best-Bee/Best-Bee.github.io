@@ -1,5 +1,5 @@
 ---
-title: "Array List Example"
+title: "Array List"
 categories:
   - Classwork
 
