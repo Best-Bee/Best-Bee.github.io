@@ -1,4 +1,9 @@
 ---
+title: "Linked List"
+categories:
+  - Classwork
+
+---
 [Linked List Repository](https://github.com/Best-Bee/Classwork/tree/main/Linked%20List)
 ---
 
