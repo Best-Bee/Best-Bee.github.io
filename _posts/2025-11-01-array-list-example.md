@@ -1,4 +1,9 @@
 ---
+title: "Array List Example"
+categories:
+  - Classwork
+
+---
 [Array List Repository](https://github.com/Best-Bee/Classwork/tree/main/ArrayListExample)
 ---
 
