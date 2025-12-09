@@ -1,4 +1,9 @@
 ---
+title: "Observers"
+categories:
+  - Classwork
+
+---
 [Observers Repository](https://github.com/Best-Bee/Classwork/tree/main/Observers)
 ---
 
