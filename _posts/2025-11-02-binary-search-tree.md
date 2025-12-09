@@ -1,5 +1,5 @@
 ---
-title: "Binary Search Tree Example"
+title: "Binary Search Tree"
 categories:
   - Classwork
     
