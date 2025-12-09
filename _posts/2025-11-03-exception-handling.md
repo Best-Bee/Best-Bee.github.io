@@ -1,4 +1,9 @@
 ---
+title: "Exception Handling"
+categories:
+  - Classwork
+
+---
 [Exception Handling Repository](https://github.com/Best-Bee/Classwork/tree/main/ExceptionHandling)
 ---
 
