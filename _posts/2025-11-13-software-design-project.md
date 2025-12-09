@@ -1,5 +1,5 @@
 ---
-title: "Superclasses"
+title: "CS230 Software Design Project"
 categories:
   - Projects
   - Classwork
