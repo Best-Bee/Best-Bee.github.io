@@ -1,4 +1,9 @@
 ---
+title: "Interfaces"
+categories:
+  - Classwork
+
+---
 [Interfaces Repository I](https://github.com/Best-Bee/Classwork/tree/main/Interfaces%20I)
 [Interfaces Repository II](https://github.com/Best-Bee/Classwork/tree/main/Interfaces%20II)
 [Interfaces Repository III](https://github.com/Best-Bee/Classwork/tree/main/Interfaces%20III)
