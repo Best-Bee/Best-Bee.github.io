@@ -1,4 +1,9 @@
 ---
+title: "Binary Search Tree Example"
+categories:
+  - Classwork
+    
+---
 [Binary Search Tree Repository](https://github.com/Best-Bee/Classwork/tree/main/Binary%20Search%20Tree)
 ---
 
