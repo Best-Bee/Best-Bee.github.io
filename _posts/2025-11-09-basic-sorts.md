@@ -4,9 +4,11 @@ categories:
   - Classwork
 
 ---
-[Merge Sort Repository](https://github.com/Best-Bee/Classwork/tree/main/Merge%20Sort)  \
-[Quick Sort Repository](https://github.com/Best-Bee/Classwork/tree/main/Quick%20Sort)  \
-[Radix Sort Repository](https://github.com/Best-Bee/Classwork/tree/main/Radix%20Sort)  \
+[Merge Sort Repository](https://github.com/Best-Bee/Classwork/tree/main/Merge%20Sort)
+---
+[Quick Sort Repository](https://github.com/Best-Bee/Classwork/tree/main/Quick%20Sort)
+---
+[Radix Sort Repository](https://github.com/Best-Bee/Classwork/tree/main/Radix%20Sort)
 ---
 
 This is an example of some sorting algorithms, this was done as a part of my coursework in one of my CS courses.
