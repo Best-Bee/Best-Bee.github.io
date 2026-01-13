@@ -4,8 +4,7 @@ categories:
   - Minecraft Mods
 
 ---
-[Arsenal Compatibility Github](https://github.com/Best-Bee/Arsenal-Compatibility)
-<br>
+[Arsenal Compatibility Github](https://github.com/Best-Bee/Arsenal-Compatibility) <br>
 [Arsenal Compatibility Modrinth](https://modrinth.com/datapack/arsenal-compatibility) <br>
 ---
 
