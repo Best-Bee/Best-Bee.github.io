@@ -4,14 +4,10 @@ categories:
   - Classwork
 
 ---
-[Interfaces Repository I](https://github.com/Best-Bee/Classwork/tree/main/Interfaces%20I)
----
-[Interfaces Repository II](https://github.com/Best-Bee/Classwork/tree/main/Interfaces%20II)
----
-[Interfaces Repository III](https://github.com/Best-Bee/Classwork/tree/main/Interfaces%20III)
----
-[Interfaces Repository IV](https://github.com/Best-Bee/Classwork/tree/main/Interfaces%20IV)
----
+[Interfaces Repository I](https://github.com/Best-Bee/Classwork/tree/main/Interfaces%20I) <br>
+[Interfaces Repository II](https://github.com/Best-Bee/Classwork/tree/main/Interfaces%20II) <br>
+[Interfaces Repository III](https://github.com/Best-Bee/Classwork/tree/main/Interfaces%20III) <br>
+[Interfaces Repository IV](https://github.com/Best-Bee/Classwork/tree/main/Interfaces%20IV) <br>
 
 This is multiple examples of the usage of interfaces in Java, this was done as a part of my coursework in one of my CS classes.
 
