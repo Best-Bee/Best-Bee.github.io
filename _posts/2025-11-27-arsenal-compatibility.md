@@ -5,8 +5,8 @@ categories:
 
 ---
 [Arsenal Compatibility Github](https://github.com/Best-Bee/Arsenal-Compatibility)
----
-[Arsenal Compatibility Modrinth](https://modrinth.com/datapack/arsenal-compatibility)
+\n
+[Arsenal Compatibility Modrinth](https://modrinth.com/datapack/arsenal-compatibility) \n
 ---
 
 This is a datapack made for minecraft, please check out either the github repository or the modrinth page.
